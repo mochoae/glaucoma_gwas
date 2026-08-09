@@ -8,7 +8,7 @@ This repository includes both the full dataset and analysis scripts, enabling fu
 
 ## Repository Structure
 
-* `main_analysis.R`: Main script with numbered and annotated sections for reproducibility.
+* `Main_Analysis.R`: Main script with numbered and annotated sections for reproducibility.
 * `data/`: Filtered dataset used for statistical and graphical analyses.
 * `Supplementary Material 1-2`: Full set of GWAS and bibliometric data.
 
